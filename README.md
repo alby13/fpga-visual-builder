@@ -40,7 +40,9 @@ To install FPGA Builder, ensure you have Python installed, then use the followin
 
 ## Roadmap
 
-Roadmap and Bugs text file has been added to the project. New Features, Suggested Functionality, and Bugs that need to be fixed are listed there.
+Roadmap and Bugs text file has been added to the project. 
+
+New Features, Suggested Functionality, and Bugs that need to be fixed are listed there.
 
 ## Requirements
 
