@@ -1,0 +1,26 @@
+FPGA Visual Builder Roadmap
+---------------------------
+
+FPGA Builder is a work in progress.
+
+
+Suggested Implementation:
+---------------------------
+
+- Ability to make more kinds of chips, specifically Square Chips, Double Long Chips, and Half-as-wide Chips.
+- User can add pins on all sides
+- Ability to create more types of components
+- Wires should connect to pins and give the user the option of simply connecting the chip to other components at the center
+- Suggestion: Make wires stay visually under all chips and components
+
+
+Bugs To Fix:
+---------------------------
+- Adding chip connections (wires) is buggy, sometimes wwil not add and sometimes complains not to connect a chip to itself with a pop-up
+- Rotating chips is finicky, sometimes does not want to when clicked.
+
+
+Newly Added Features/Functionality:
+---------------------------
+
+- (8-12-2024) The ability to Save and Load .fga files has been added and is tested and working.
