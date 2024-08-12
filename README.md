@@ -8,11 +8,11 @@ FPGA Builder is a graphical tool for designing and simulating FPGA (Field-Progra
 ## Features
 
 - **Grid-Based Design**: Easily align components on a grid to maintain clean and organized layouts.
-- **Add and Rotate Components**: Insert FPGA components, set their labels, adjust pin counts, and rotate them to fit your design.
+- **Add, Rotate, Delete Components**: Insert FPGA components, set their labels, adjust pin counts, rotate them to fit your design, and Right Click a component to delete it.
 - **Create Connections**: Connect pins between components with a simple interface that prevents invalid connections.
 - **Undo/Redo**: Easily correct mistakes or experiment with different layouts using the undo and redo functionalities.
 - **Zoom In/Out**: Adjust the zoom level to fit more or fewer details on the screen.
-- **Save and Load Projects**: Save your FPGA design as a project file and load it later to continue your work.
+- **Save and Load Projects**: Save your FPGA design as a (.fga) project file and load it later to continue your work.
 - **Export to Image**: Export your FPGA design to an image file for documentation or sharing.
 
 ## Installation
@@ -33,7 +33,7 @@ To install FPGA Builder, ensure you have Python installed, then use the followin
     ```
 4. Run the application:
     ```bash
-    python fpga_builder.py
+    python fpga_visual_builder.py
     ```
 
 ## License
