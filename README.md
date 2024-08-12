@@ -42,7 +42,7 @@ PyQT5 can be downloaded here: https://pypi.org/project/PyQt5/
 
 ## License
 
-FPGA Builder is free for individuals and for educational use. It is not free for companies or commercial products, and it is not open-source. Users are free to create their own versions or submit improvements for this program.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Contributing
 
