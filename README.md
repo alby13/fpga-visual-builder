@@ -38,6 +38,10 @@ To install FPGA Builder, ensure you have Python installed, then use the followin
     python fpga_visual_builder.py
     ```
 
+## Roadmap
+
+Roadmap and Bugs text file has been added to the project. New Features, Suggested Functionality, and Bugs that need to be fixed are listed there.
+
 ## Requirements
 
 PyQT5 can be downloaded here: https://pypi.org/project/PyQt5/
