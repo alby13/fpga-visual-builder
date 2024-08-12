@@ -3,7 +3,7 @@
 # FPGA Visual Builder - Build 19 (August 11, 2024)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 
-FPGA Builder is a graphical tool for designing and simulating FPGA (Field-Programmable Gate Array) layouts. The tool allows users to create, rotate, and connect components with ease, providing a grid-based workspace that simplifies alignment and placement. This program is free for individual and educational use, but not for companies or commercial products.
+FPGA Builder is a graphical tool for designing and simulating FPGA (Field-Programmable Gate Array) layouts. The tool allows users to create, rotate, and connect components with ease, providing a grid-based workspace that simplifies alignment and placement. This program is open-source.
 
 ## Features
 
