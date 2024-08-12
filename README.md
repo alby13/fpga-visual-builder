@@ -21,11 +21,11 @@ To install FPGA Builder, ensure you have Python installed, then use the followin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/fpga-builder.git
+    git clone https://github.com/alby13/fpga-visual-builder.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd fpga-builder
+    cd fpga-visual-builder
     ```
 3. Install the required dependencies:
     ```bash
@@ -35,6 +35,10 @@ To install FPGA Builder, ensure you have Python installed, then use the followin
     ```bash
     python fpga_visual_builder.py
     ```
+
+## Requirements
+
+PyQT5 can be downloaded here: https://pypi.org/project/PyQt5/
 
 ## License
 
