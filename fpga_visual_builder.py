@@ -183,7 +183,7 @@ class GraphicsView(QGraphicsView):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("FPGA Builder - Created by alby13")
+        self.setWindowTitle("FPGA Visual Builder - Created by alby13")
         self.showMaximized()
         
         central_widget = QWidget()
