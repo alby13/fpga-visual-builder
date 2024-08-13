@@ -46,6 +46,7 @@ New Features, Suggested Functionality, and Bugs that need to be fixed are listed
 
 ## Requirements
 
+PyQT5 requires Python 3.10+
 PyQT5 can be downloaded here: https://pypi.org/project/PyQt5/
 
 ## License
