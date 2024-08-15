@@ -12,6 +12,7 @@ Suggested Implementation:
 - Ability to create more types of components
 - Wires should connect to pins and give the user the option of simply connecting the chip to other components at the center
 - Suggestion: Make wires stay visually under all chips and components
+- Pin Connectivity: Enable users to connect pins between components, ensuring that the connections are valid (e.g., input to output, compatible signal types).
 
 
 Bugs To Fix:
