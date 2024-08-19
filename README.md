@@ -11,6 +11,12 @@ This program is open-source.
 
 Build 27 adds a new component menu, 2 new sizes (types) of chips, 6 new types of components, improved connections with red highlight on pins, connections stay below components. Corrected a bug where the window would appear small when opened for the first time.
 
+<img src="new-menu.jpg">
+
+<img src="chips.jpg">
+
+<img src="components.jpg">
+
 ## Features
 
 - **Grid-Based Design**: Easily align components on a grid to maintain clean and organized layouts.
